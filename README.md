@@ -10,3 +10,5 @@ This project aims to detect and decode qr-codes from live video feed on raspberr
  clone this repository.Navigate to (`cd barcode-scanner`) bar `barcode-scanner` folder and then run `sudo python3 barcode_scanner_video.py`.
  
  The initial preparation and video link can be found [here](https://youtu.be/HPQk-gDUrmM) and [here](https://youtu.be/f_YiK0Hvgvc)
+
+Now ,try decoding the example qr-codes from `qr-code_Examples.pdf`.
